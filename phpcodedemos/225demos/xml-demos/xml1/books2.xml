@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+        <catalog:books xmlns:catalog="http://www.example.com/bookcatalog">
+            <catalog:book isbn="978-0470114872">
+                <catalog:title>Beginning XML</catalog:title>
+                <catalog:subtitle>Programmer to Programmer</catalog:subtitle>
+                <catalog:authors>
+                    <catalog:author>
+                        <catalog:authorlname>Hunter</catalog:authorlname>
+                        <catalog:authorfname>David</catalog:authorfname>
+                    </catalog:author>
+                    <catalog:author>
+                        <catalog:authorlname>Rafter</catalog:authorlname>
+                        <catalog:authorfname>Jeff</catalog:authorfname>
+                    </catalog:author>
+                    <catalog:author>
+                        <catalog:authorlname>Fawcett</catalog:authorlname>
+                        <catalog:authorfname>Joe</catalog:authorfname>
+                    </catalog:author>
+                </catalog:authors>
+                <catalog:format>Paperback</catalog:format>
+                <catalog:pages>1080</catalog:pages>
+                <catalog:publisher>Wrox</catalog:publisher>
+                <catalog:edition>4th Edition</catalog:edition>
+                <catalog:pubdate>May 21, 2007</catalog:pubdate>
+                <catalog:language>English</catalog:language>
+                <catalog:dimensions>9.3 x 7.4 x 2.1 inches</catalog:dimensions>
+                <catalog:shippingwt>3 lbs</catalog:shippingwt>
+                <catalog:salesrank>18,966</catalog:salesrank>
+                <catalog:reviews>
+                    <catalog:review>
+                        <catalog:stars>5</catalog:stars>
+                        <catalog:totalpercent>36%</catalog:totalpercent>
+                        <catalog:totalnumber>19</catalog:totalnumber>
+                    </catalog:review>
+                    <catalog:review>
+                        <catalog:stars>4</catalog:stars>
+                        <catalog:totalpercent>30%</catalog:totalpercent>
+                        <catalog:totalnumber>16</catalog:totalnumber>
+                    </catalog:review>
+                    <catalog:review>
+                        <catalog:stars>3</catalog:stars>
+                        <catalog:totalpercent>11%</catalog:totalpercent>
+                        <catalog:totalnumber>6</catalog:totalnumber>
+                    </catalog:review>
+                    <catalog:review>
+                        <catalog:stars>2</catalog:stars>
+                        <catalog:totalpercent>7%</catalog:totalpercent>
+                        <catalog:totalnumber>4</catalog:totalnumber>
+                    </catalog:review>
+                    <catalog:review>
+                        <catalog:stars>1</catalog:stars>
+                        <catalog:totalpercent>13%</catalog:totalpercent>
+                        <catalog:totalnumber>7</catalog:totalnumber>
+                    </catalog:review>                    
+                </catalog:reviews>
+            </catalog:book> 
+        </catalog:books>   

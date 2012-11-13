@@ -1,0 +1,41 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE> Form Demo 1 </TITLE>
+ </HEAD>
+
+ <BODY>
+
+  <h2>Survey Form</h2>
+
+ <form action="formdemo_s.php" method="POST">
+
+ <TABLE CELLPADDING="3" CELLSPACING="2">
+ <TR>
+	<TD align="right" valign="top"><B>Name:</B> </TD>
+	<TD><input type="text" name="name" value="Teresa Hardy"></TD>
+ </TR>
+  <TR>
+	<TD align="right" valign="top"><B>E-mail:</B> </TD>
+	<TD valign="top"><input type="text" name="email" value="tjhardy@isu.edu"/></TD>
+ </TR>
+ <TR>
+	<TD align="right" valign="top"><B>Question One:</B> </TD>
+	<TD valign="top"><input type="radio" name="q1" value="yes"/> Yes<br/><input type="radio" name="q1" value="no"/> No</TD>
+ </TR>
+ <TR>
+	<TD align="right" valign="top"><B>Question Two:</B> </TD>
+	<TD valign="top"><input type="radio" name="q2" value="yes"/> Yes<br/><input type="radio" name="q2" value="no"/> No</TD>
+ </TR>
+ <TR>
+	<TD align="right" valign="top"><B>Comments: </B></TD>
+	<TD valign="top"><textarea name="comments" rows="5" cols="16"></textarea></TD>
+ </TR>
+ <TR>
+	<TD valign="top" colspan="2" align="right"><input type="submit" name="Submit" value="Send Response"/></TD>
+ </TR>
+ </TABLE>
+ </form>
+
+ </BODY>
+</HTML>

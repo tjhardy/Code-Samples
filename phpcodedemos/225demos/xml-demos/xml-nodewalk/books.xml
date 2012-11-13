@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+        <books>
+            <book isbn="978-0470114872">
+                <title>Beginning XML</title>
+                <subtitle>Programmer to Programmer</subtitle>
+                <authors>
+                    <author>
+                        <authorlname>Hunter</authorlname>
+                        <authorfname>David</authorfname>
+                    </author>
+                    <author>
+                        <authorlname>Rafter</authorlname>
+                        <authorfname>Jeff</authorfname>
+                    </author>
+                    <author>
+                        <authorlname>Fawcett</authorlname>
+                        <authorfname>Joe</authorfname>
+                    </author>
+                </authors>
+                <format>Paperback</format>
+                <pages>1080</pages>
+                <publisher>Wrox</publisher>
+                <edition>4th Edition</edition>
+                <pubdate>May 21, 2007</pubdate>
+                <language>English</language>
+                <dimensions>9.3 x 7.4 x 2.1 inches</dimensions>
+                <shippingwt>3 lbs</shippingwt>
+                <salesrank>18,966</salesrank>
+                <reviews>
+                    <review>
+                        <stars>5</stars>
+                        <totalpercent>36%</totalpercent>
+                        <totalnumber>19</totalnumber>
+                    </review>
+                    <review>
+                        <stars>4</stars>
+                        <totalpercent>30%</totalpercent>
+                        <totalnumber>16</totalnumber>
+                    </review>
+                    <review>
+                        <stars>3</stars>
+                        <totalpercent>11%</totalpercent>
+                        <totalnumber>6</totalnumber>
+                    </review>
+                    <review>
+                        <stars>2</stars>
+                        <totalpercent>7%</totalpercent>
+                        <totalnumber>4</totalnumber>
+                    </review>
+                    <review>
+                        <stars>1</stars>
+                        <totalpercent>13%</totalpercent>
+                        <totalnumber>7</totalnumber>
+                    </review>                    
+                </reviews>
+            </book> 
+            <book isbn="978-1-5723621">
+                <title>Software Project Survival Guide</title>
+                <subtitle>How to be sure your first project is not your last!</subtitle>
+                <authors>
+                    <author>
+                        <authorlname>McConnel</authorlname>
+                        <authorfname>Steve</authorfname>
+                    </author>
+                </authors>
+                <format>Paperback</format>
+                <pages>288</pages>
+                <publisher>Microsoft</publisher>
+                <edition>1st Edition</edition>
+                <pubdate>May 21, 2006</pubdate>
+                <language>English</language>
+                <dimensions>8.3 x 6.8 x 0.75 inches</dimensions>
+                <shippingwt>1 lb</shippingwt>
+                <salesrank>14,223</salesrank>
+                <reviews>
+                    <review>
+                        <stars>5</stars>
+                        <totalpercent>26%</totalpercent>
+                        <totalnumber>12</totalnumber>
+                    </review>
+                    <review>
+                        <stars>4</stars>
+                        <totalpercent>10%</totalpercent>
+                        <totalnumber>6</totalnumber>
+                    </review>
+                    <review>
+                        <stars>3</stars>
+                        <totalpercent>21%</totalpercent>
+                        <totalnumber>16</totalnumber>
+                    </review>
+                    <review>
+                        <stars>2</stars>
+                        <totalpercent>17%</totalpercent>
+                        <totalnumber>14</totalnumber>
+                    </review>
+                    <review>
+                        <stars>1</stars>
+                        <totalpercent>1%</totalpercent>
+                        <totalnumber>2</totalnumber>
+                    </review>                    
+                </reviews>
+            </book>            
+        </books>   

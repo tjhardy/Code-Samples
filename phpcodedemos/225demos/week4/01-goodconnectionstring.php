@@ -4,7 +4,7 @@ error_reporting(E_ALL);
 // suppress normal human-unfriendly errors using '@' in front of the 'new' 
 // but don't do it until you are sure it's working!
 // change the string below to reflect your database settings
-$conn = new mysqli('localhost','tjhardy','t1g3r1','tjhardy');
+$conn = new mysqli('');
 
 
 // catch and count errors and return alerts
